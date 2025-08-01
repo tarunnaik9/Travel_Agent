@@ -1,11 +1,11 @@
-# 🌍 AI AGENT Travel Planner 
+# AI AGENT Travel Planner 
 
-## 📌 Project Overview
+##  Project Overview
 This project is an intelligent **AI travel planner chatbot** built using **IBM Watsonx Agent** and deployed via **Watsonx.ai Runtime** on IBM Cloud. The chatbot helps users plan trips based on budget, location, and preferences, using integrated tools such as Google Search, DuckDuckGo, Wikipedia, Webcrawler, and Weather APIs.
 
 ---
 
-## 🚀 Problem Statement
+##  Problem Statement
 The Challenge  - A Travel Planner Agent is an AI-powered assistant that helps users plan trips efficiently 
 and intelligently. 
 It uses real-time data to suggest destinations, build itineraries, and recommend transport and 
@@ -26,7 +26,7 @@ Using **Watsonx.ai's Prompt Lab and Gen AI Solution**, we built a custom **Watso
 
 ---
 
-## ⚙ Technology Stack
+##  Technology Stack
 
 - **IBM Cloud (Lite Tier)**
 - **Watsonx.ai → Prompt Lab → Gen AI Solution**
@@ -57,7 +57,7 @@ Using **Watsonx.ai's Prompt Lab and Gen AI Solution**, we built a custom **Watso
 
 ---
 
-## 🖥 How It Works
+##  How It Works
 
 1. Login to [IBM Cloud](https://cloud.ibm.com/)
 2. Open **Watsonx.ai → Prompt Lab → Gen AI Solution**
@@ -91,5 +91,4 @@ Using **Watsonx.ai's Prompt Lab and Gen AI Solution**, we built a custom **Watso
 - Build mobile app or responsive web UI
 
 
-Feel free to fork, reuse, and improve with credit.
 
